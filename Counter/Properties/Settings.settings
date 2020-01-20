@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Counter.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;DataSet xmlns="http://tempuri.org/DataSet.xsd"&gt;
+  &lt;Counter&gt;
+    &lt;name&gt;sam&lt;/name&gt;
+    &lt;count&gt;1&lt;/count&gt;
+    &lt;color&gt;0&lt;/color&gt;
+  &lt;/Counter&gt;
+&lt;/DataSet&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
